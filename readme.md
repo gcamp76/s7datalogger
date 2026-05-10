@@ -46,6 +46,15 @@ PLC Siemens S7
 
 ---
 
+## Download
+
+Installer Windows disponibile in:
+
+-Release v1.0.0:
+-S7DataLoggerSetup.exe
+
+---
+
 ## 🚀 Installazione
 
 1. Scaricare la release dal repository
