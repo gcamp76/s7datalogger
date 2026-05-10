@@ -46,7 +46,7 @@ PLC Siemens S7
 
 ---
 
-## Download
+## 📥 Download
 
 Installer Windows disponibile in:
 
