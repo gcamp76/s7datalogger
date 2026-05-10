@@ -1,6 +1,6 @@
 # S7 Data Logger
 
-S7 Data Logger è un’applicazione per la raccolta e registrazione dati da PLC Siemens S7 tramite protocollo industriale ISO-on-TCP.
+S7 Data Logger è un’applicazione per la raccolta e registrazione dati e diagnostica da PLC Siemens S7 tramite protocollo industriale ISO-on-TCP.
 
 Il sistema consente di acquisire variabili di processo in tempo reale e salvarle per analisi, monitoraggio e integrazione con sistemi esterni.
 
