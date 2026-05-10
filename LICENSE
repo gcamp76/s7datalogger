@@ -1,0 +1,49 @@
+Copyright (c) 2026 S7 Data Logger
+
+All rights reserved.
+
+──────────────────────────────────────────────
+PROPRIETARY SOFTWARE
+──────────────────────────────────────────────
+
+This software and its source code are the exclusive property of
+the S7 Data Logger project.
+
+Unauthorized copying, modification, distribution, or use of this
+software, via any medium, is strictly prohibited without prior
+written permission from the copyright holder.
+
+This software is provided for industrial and internal use only,
+unless explicitly licensed otherwise.
+
+──────────────────────────────────────────────
+THIRD-PARTY SOFTWARE
+──────────────────────────────────────────────
+
+This project includes third-party open source components.
+
+In particular:
+
+- Snap7 Library
+  Copyright © Davide Nardella
+  Licensed under GNU Lesser General Public License v3 (LGPL v3)
+
+Snap7 is used without modification of its original source code.
+
+A copy of the LGPL v3 license is available at:
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+Other dependencies may include libraries licensed under MIT, EPL,
+or similar permissive licenses.
+
+Each dependency retains its own copyright and license terms.
+
+──────────────────────────────────────────────
+DISCLAIMER
+──────────────────────────────────────────────
+
+This software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties
+of merchantability, fitness for a particular purpose, or non-infringement.
+
+The authors are not affiliated with Siemens AG.
